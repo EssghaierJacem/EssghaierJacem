@@ -54,9 +54,9 @@ with Spring Boot microservices, LLM-powered parsing, and Kubernetes deployment.
 ### GitHub Stats
 
 <div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=EssghaierJacem&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EssghaierJacem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EssghaierJacem&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=EssghaierJacem&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
