@@ -55,9 +55,6 @@ with Spring Boot microservices, LLM-powered parsing, and Kubernetes deployment.
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=EssghaierJacem&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies"/>
-
-
 <img src="https://streak-stats.demolab.com?user=EssghaierJacem&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
