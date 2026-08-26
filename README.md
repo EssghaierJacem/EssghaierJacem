@@ -14,7 +14,7 @@
 
 ### About Me
 
-Recent Software Engineering graduate (ESPRIT) with hands-on experience across
+Recent Software Engineering graduate (July 2026) with hands-on experience across
 five engineering roles — from migrating legacy Java monoliths to Spring Boot
 microservices, to automating cloud infrastructure with Terraform.
 
