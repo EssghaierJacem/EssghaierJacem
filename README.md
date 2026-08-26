@@ -55,12 +55,13 @@ with Spring Boot microservices, LLM-powered parsing, and Kubernetes deployment.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EssghaierJacem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EssghaierJacem&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=EssghaierJacem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EssghaierJacem&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1" alt="Top languages"/>
 
 <img src="https://streak-stats.demolab.com?user=EssghaierJacem&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
+
 
 ---
 
