@@ -18,8 +18,8 @@ Recent Software Engineering graduate (July 2026) with hands-on experience across
 five engineering roles — from migrating legacy Java monoliths to Spring Boot
 microservices, to automating cloud infrastructure with Terraform.
 
-Currently building **InvoiceForge** — a multi-tenant invoice extraction SaaS
-with Spring Boot microservices, LLM-powered parsing, and Kubernetes deployment.
+Currently building **Servers-Manager** — an all-in-one workspace for multi-cloud management
+built with React, NestJs, Redis, BullMQ connected to a PostgreSQL database accessed through TypeORM.
 
 ---
 
